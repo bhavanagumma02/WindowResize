@@ -1,0 +1,17 @@
+.screen-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.screen-container h1 {
+  margin-bottom: 1rem;
+}
+
+.screen-container p {
+  margin: 0.5rem 0;
+  color: red;
+}
